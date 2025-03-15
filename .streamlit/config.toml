@@ -1,0 +1,24 @@
+[browser]
+gatherUsageStats = false
+
+[ui]
+hideTopBar = true
+hideSidebarNav = true
+
+[theme]
+base = "light"
+primaryColor = "#4A6FDC"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[server]
+enableCORS = false
+enableXsrfProtection = true
+maxUploadSize = 5
+
+[client]
+toolbarMode = "minimal"
+showSidebarNavigation = false
+displayEnabled = false 

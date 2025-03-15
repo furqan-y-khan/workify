@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="80" viewBox="0 0 240 80">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4A6FDC" />
+      <stop offset="100%" stop-color="#5C33B8" />
+    </linearGradient>
+  </defs>
+  <g>
+    <!-- App icon -->
+    <circle cx="40" cy="40" r="32" fill="url(#gradient)" />
+    <text x="40" y="56" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white" text-anchor="middle">W</text>
+    
+    <!-- App name -->
+    <text x="145" y="38" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#333" text-anchor="middle">Workify</text>
+    
+    <!-- Brand name -->
+    <text x="145" y="60" font-family="Arial, sans-serif" font-size="14" fill="#666" text-anchor="middle">by LastAppStanding</text>
+  </g>
+</svg> 
